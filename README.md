@@ -50,26 +50,8 @@ Download ChromeDriver matching your Chrome version
 
 Place it in the project folder or system PATH
 
-4. Run the Script
-IRCTC:
-bash
-Copy
-Edit
-python irctc.py
-Goibibo:
-bash
-Copy
-Edit
-python goibibo.py
-⚠️ Make sure your screen resolution and display scaling are set to 100% for PyAutoGUI to work correctly.
+4 run the script
 
-
-🚀 Future Improvements
-Implement OCR to handle CAPTCHA automatically
-
-Add support for more train booking websites
-
-Build a user-friendly GUI for inputs
 
 🧑‍💻 Author
 Shikhar , Amaan 
